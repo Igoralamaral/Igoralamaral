@@ -28,4 +28,6 @@ Olá! Eu sou o Igor Amaral 👋
   <a href="https://www.linkedin.com/in/igor-antonino-de-lima-amaral-751183245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:igoralamaral@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
+  
+   ![Snake animation](https://github.com/Igoralamaral/Igoralamaral/blob/output/github-contribution-grid-snake.svg)
 
