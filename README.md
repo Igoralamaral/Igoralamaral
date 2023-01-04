@@ -1,7 +1,7 @@
 Olá! Eu sou o Igor Amaral 👋
 
-- 🔭 Estudando Front End com Javascritp/ Vue JS e Back End com PHP/ Laravel
-- 🌱 Atualmente aprendendo a criar aplicações full stack
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Atualmente aprendendo a criar aplicações full stack utilizando React Js e MongoDB
 - 😄 Pronomes: ele/dele
 
 <div align="center">
