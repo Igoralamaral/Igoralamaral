@@ -1,7 +1,7 @@
 Olá! Eu sou o Igor Amaral 👋
 
-- 🔭 Desenvolvedor Full Stack
-- 🌱 Atualmente aprendendo a criar aplicações full stack utilizando React Js e MongoDB
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - Uniasselvi
+- 🌱 Atualmente aprendendo Javascript e PHP para me tornar um desenvolvedor Full Stack
 - 😄 Pronomes: ele/dele
 
 <div align="center">
