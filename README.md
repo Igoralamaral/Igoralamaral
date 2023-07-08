@@ -1,7 +1,7 @@
 Olá! Eu sou o Igor Amaral 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - Uniasselvi
-- 🌱 Atualmente aprendendo Javascript e PHP para desenvolvimento web full-stack
+- 🌱 Atualmente aprendendo Javascript, Typescript, Nest JS e React JS para desenvolvimento web full-stack
 - 😄 Pronomes: ele/dele
 
 <div align="center">
