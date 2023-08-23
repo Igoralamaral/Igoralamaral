@@ -1,7 +1,7 @@
 Olá! Eu sou o Igor Amaral 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - Uniasselvi
-- 🌱 Atualmente aprendendo Javascript, Typescript, Nest JS e React JS para desenvolvimento web full-stack
+- 🔭 Estagiário de Desenvolvimento Back-End Java Spring Boot na Compass Uol. 
+- 🌱 Atualmente aprendendo desenvolvimento back-end Java.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
