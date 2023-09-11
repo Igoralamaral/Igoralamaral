@@ -1,8 +1,8 @@
-Olá! Eu sou o Igor Amaral 👋
+Hello! I am Igor Amaral 👋
 
-- 🔭 Estagiário de Desenvolvimento Back-End Java Spring Boot na Compass Uol. 
-- 🌱 Atualmente aprendendo desenvolvimento back-end Java.
-- 😄 Pronomes: ele/dele
+- 🔭 Java Spring Boot Back-End Development Intern at Compass Uol
+- 🌱 Currently learning Java back-end development
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/Igoralamaral">
