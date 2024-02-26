@@ -1,6 +1,6 @@
 Hello! I am Igor Amaral 👋
 
-- 🔭 Java Spring Boot Back-End Development Intern at Compass Uol
+- 🔭 Java Spring Boot Back-End Developer
 - 🌱 Currently learning Java back-end development
 - 😄 Pronouns: he/him
 
