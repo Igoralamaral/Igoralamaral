@@ -1,7 +1,7 @@
 Hello! I am Igor Amaral 👋
 
-- 🔭 Java Spring Boot Back-End Developer
-- 🌱 Currently learning Java back-end development
+- 🔭 Back End Developer
+- 🌱 Currently learning PHP and Java back-end development
 - 😄 Pronouns: he/him
 
 <div align="center">
