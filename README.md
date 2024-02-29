@@ -1,7 +1,7 @@
 Hello! I am Igor Amaral 👋
 
 - 🔭 Back End Developer
-- 🌱 Currently learning PHP and Java back-end development
+- 🌱 Currently learning Typescript development
 - 😄 Pronouns: he/him
 
 <div align="center">
